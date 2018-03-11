@@ -1,1 +1,2 @@
 well come to git hub
+version 0.0.2
